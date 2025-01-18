@@ -1,20 +1,55 @@
-### Olá, Eu sou o Davi Dantas ✋
+<h2 align="left">About Me</h2>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:\\www.linkedin.com/in/andavidantas/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:\\www.instagram.com/daviytd13)
+###
 
+<p align="left">💻💻-Studying Systems Analysis and Development <br><br>🚀🚀 -I'm currently taking a dev course "rocketseat <br><br>-I like teamwork and consequently evolve as a professional in the technology field<br><br>-I'm looking for a First Job as my main "Back-End" role.</p>
 
-![Davi Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=davidantas27&show_icons=true&theme=radical)
+###
 
+<p align="left"></p>
 
-### Tecnologias que eu utilizo atualmente  💻 
+###
 
-<div style="display: inline_block" ><br/>
-    <img Align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img Align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img Align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div><br/>
+<h2 align="left">Social Network</h2>
 
-Apaixonado por tecnologia, e por trabalho em equipe. E que tudo é possivel quando se estuda e se esforça
+###
 
-### Email Para Contato
+<div align="left">
+  <a href="https://www.linkedin.com/in/andavidantas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/daviytd13/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.daviantonio939@gmail.com)
+###
+
+<h2 align="left">TECHS</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h2 align="left">STATS</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidantas27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=davidantas27&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidantas27&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
