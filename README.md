@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻💻-Studying Systems Analysis and Development <br><br>🚀🚀 -I'm currently taking a dev course "rocketseat <br><br>-I like teamwork and consequently evolve as a professional in the technology field<br><br>-I'm looking for a First Job as my main "Back-End" role.</p>
+<p align="left">💻💻-Studying Analysis and Development Systems<br><br>🚀🚀 -I'm currently taking a dev course "rocketseat <br><br>🏢🏢-I like teamwork and consequently evolve as a professional in the technology field<br><br>🚧🚧-I'm looking for a First Job as my main "Back-End" role.</p>
 
 ###
 
